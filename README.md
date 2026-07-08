@@ -6,9 +6,14 @@
 
 </div>
 
-This is where research for the Lumina suite lives: competitive analysis, feature
-studies, and improvement ideas that feed the backlog. Organized one folder per
-product so each stream stays focused.
+This repo has two jobs (it is **infrastructure, not a product**):
+
+1. **Organize research** — competitive analysis, feature studies, and improvement
+   ideas that feed the backlog.
+2. **Gather recent changes** — a running per-product changelog of what shipped,
+   so there's always an up-to-date record of recent work.
+
+Organized one folder per product so each stream stays focused.
 
 | Product | Notes | Jira | Feeds |
 | --- | --- | --- | --- |
