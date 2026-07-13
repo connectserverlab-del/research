@@ -19,5 +19,15 @@ filed, the Jira key of the task it produced.
 
 ---
 
-_No research notes yet — the overnight Research & Prioritize routine will add
-findings here and file the resulting `auto-agent` backlog items._
+### 2026-07-13 — Competitive & market landscape
+**Question:** Where does Tessera win in a mature, Excel/Sheets-dominated spreadsheet market?
+**Findings:** The base grid is a commodity; growth is in the AI layer and live-data wedges.
+NL→formula is now table stakes (Excel `=COPILOT()`, Sheets Gemini) — no longer a moat.
+Live-market-data support elsewhere is shallow (`GOOGLEFINANCE`, `STOCKHISTORY`) or lives in
+add-ins/terminals (Wisesheets, Koyfin). No competitor pairs a native `STOCK()` function +
+in-app Market panel + first-class graph sheets. Full write-up:
+[2026-07-13-market-landscape.md](./2026-07-13-market-landscape.md).
+**Recommendation:** Lead with the finance-native + graphing-native combination; frame AI as
+"formulas you can read and verify" vs opaque AI cells; ship a no-login browser entry with
+flat prosumer pricing.
+**Jira:** ACE — (recommendation pending triage)

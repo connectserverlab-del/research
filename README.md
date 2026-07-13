@@ -15,6 +15,7 @@ product so each stream stays focused.
 | **Tessera** | [`tessera/`](./tessera) | `ACE` | Excel / Desmos / MATLAB parity, compute features |
 | **Argus** | [`argus/`](./argus) | `ARQ` | quant methods, signals, Tessera integration |
 | **Vellum** | [`vellum/`](./vellum) | `LUM` | Obsidian / Google-Docs parity, math typing, mind-mapping |
+| **Figaro** | [`figaro/`](./figaro) | `FIG` | agentic commerce, approval UX, deep-link handoff (standalone) |
 
 ## How it works
 
